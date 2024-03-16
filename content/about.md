@@ -19,6 +19,3 @@ To challenge human limitations and continue the growth of humanity. Likely throu
 
 To launch a research lab that develops, improves and adopts technologies across multiple fields: security; AI; crypto; et cetera. 
 
-
-
-

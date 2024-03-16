@@ -5,7 +5,7 @@ linktitle: "Return to Truth: CS + Math"
 title: "Return to Truth: CS + Math"
 ---
 
-Consider this a letter to my future self. I will prove my previously held insecurities were simply a fallacy I tricked myself into believing.
+Consider this a letter to my future self. I will prove the previously held insecurities were simply a fallacy I tricked myself into believing.
 
 TL;DR trends bad, CS and math understanding good. 
 
@@ -15,7 +15,7 @@ University was quite the subpar learning experience. Pseudo-CS classes with irre
 
 ## The Why
 
-Truthfully, I see myself as a self-taught engineer. This used to result in some insecurity, for a while an imagined badge of honour, I now see those sentiments as meaningless. 
+Truthfully, I see myself as a self-taught engineer. This used to result in some insecurity, for a while an imagined badge of honour, I now know those sentiments to be meaningless. 
 
 To reach the dreams I wish to attain, I require exceptionality with computers. I am self-aware enough to see that, at this moment, I am not so [gud](https://tr3y.io/articles/tech/gitgud.html#messing-with-your-computer).
 
@@ -29,4 +29,4 @@ The books listed on [teachyourselfcs.com](https://teachyourselfcs.com) seem to c
 
 Math is infinitely more challenging, I honestly have no baseline for my knowledge. Hence I've decided to start from the beginning with arithmetic. I plan to utilise [Khan Academy](https://khanacademy.org) and the [AOPS book series](https://artofproblemsolving.com/) for this early stage. 
 
-Ultimately, I see this entire experience as a journey of growth, and have not set any stringent timelines on finishing books or concepts. As always, I shall read texts outside of these domains to expand my perspectives.
+Ultimately, I see this entire experience as a journey of growth, and have not set any stringent timelines on finishing books or concepts. As always, I plan to read texts outside of these domains to expand my perspectives.
