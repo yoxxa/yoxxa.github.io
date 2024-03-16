@@ -1,0 +1,35 @@
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+ <channel>
+   <title>Tags on yoxxa</title>
+   <link>http://localhost:1313/tags/</link>
+   <description>Recent content in Tags on yoxxa</description>
+   <generator>Hugo -- gohugo.io</generator>
+   <language>en</language>
+   <managingEditor>theyoxxa@protonmail.com (yoxxa)</managingEditor>
+   <webMaster>theyoxxa@protonmail.com (yoxxa)</webMaster>
+   <copyright>Copyright &amp;copy; 2024 - yoxxa</copyright>
+   
+       <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+   
+   
+     <item>
+       <title>Moving to a terminal-based workflow</title>
+       <link>http://localhost:1313/posts/terminal/</link>
+       <pubDate>Fri, 08 Mar 2024 00:00:00 +0000</pubDate>
+       <author>theyoxxa@protonmail.com (yoxxa)</author>
+       <guid>http://localhost:1313/posts/terminal/</guid>
+       <description>&lt;p&gt;Call it a bandwagon but I have moved to a terminal workflow for efficiency sake. Upside is, it makes me feel like a power user, which is half of the battle.&lt;/p&gt;&lt;p&gt;My current setup includes:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Zsh&lt;/li&gt;&lt;li&gt;Tmux&lt;/li&gt;&lt;li&gt;Alacritty&lt;/li&gt;&lt;li&gt;Neovim&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Whilst these applications are all vastly configurable, I&amp;rsquo;ve elected to keep them as minimal, readable and understandable as possible for my own sake.&lt;/p&gt;&lt;p&gt;&lt;a href=&#34;https://github.com/yoxxa/dotfiles&#34;&gt;Config files can be found in this repository.&lt;/a&gt;&lt;/p&gt;</description>
+     </item>
+   
+     <item>
+       <title>Return to Truth: CS &#43; Math</title>
+       <link>http://localhost:1313/posts/cs&#43;math/</link>
+       <pubDate>Sat, 13 Jan 2024 00:00:00 +0000</pubDate>
+       <author>theyoxxa@protonmail.com (yoxxa)</author>
+       <guid>http://localhost:1313/posts/cs&#43;math/</guid>
+       <description>&lt;p&gt;Consider this a letter to my future self. I will prove my previously held insecurities were simply a fallacy I tricked myself into believing.&lt;/p&gt;&lt;p&gt;TL;DR trends bad, CS and math understanding good.&lt;/p&gt;&lt;h2 id=&#34;the-problem&#34;&gt;The Problem&lt;/h2&gt;&lt;p&gt;University was quite the subpar learning experience. Pseudo-CS classes with irrelevant material, rushed learning goals and timelines, dumbed-down material to bolster pass rates, among a &lt;strong&gt;lack of interest&lt;/strong&gt; from a, larger than expected, percentage of tutors. This left gaps in my knowledge surrounding computing and CS.&lt;/p&gt;&lt;h2 id=&#34;the-why&#34;&gt;The Why&lt;/h2&gt;&lt;p&gt;Truthfully, I see myself as a self-taught engineer. This used to result in some insecurity, for a while an imagined badge of honour, I now see those sentiments as meaningless.&lt;/p&gt;&lt;p&gt;To reach the dreams I wish to attain, I require exceptionality with computers. I am self-aware enough to see that, at this moment, I am not so &lt;a href=&#34;https://tr3y.io/articles/tech/gitgud.html#messing-with-your-computer&#34;&gt;gud&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;Furthermore, like many others, I previously held no purpose in pursuing higher mathematics. I see now that was a naive sentiment. Invention, beauty, the universe, all stem from this language.&lt;/p&gt;&lt;p&gt;There is a timeline where one chooses the hardest problems to tackle, another simply for money or the feeling of common satisfaction. I no longer see myself chasing after the latter.&lt;/p&gt;&lt;h2 id=&#34;the-how&#34;&gt;The How&lt;/h2&gt;&lt;p&gt;The books listed on &lt;a href=&#34;https://teachyourselfcs.com&#34;&gt;teachyourselfcs.com&lt;/a&gt; seem to cover the weak points in my current understanding. Adding in related projects, my typical style of learning, will undoubtably further my development.&lt;/p&gt;&lt;p&gt;Math is infinitely more challenging, I honestly have no baseline for my knowledge. Hence I&amp;rsquo;ve decided to start from the beginning with arithmetic. I plan to utilise &lt;a href=&#34;https://khanacademy.org&#34;&gt;Khan Academy&lt;/a&gt; and the &lt;a href=&#34;https://artofproblemsolving.com/&#34;&gt;AOPS book series&lt;/a&gt; for this early stage.&lt;/p&gt;&lt;p&gt;Ultimately, I see this entire experience as a journey of growth, and have not set any stringent timelines on finishing books or concepts. As always, I shall read texts outside of these domains to expand my perspectives.&lt;/p&gt;</description>
+     </item>
+   
+ </channel>
+</rss>

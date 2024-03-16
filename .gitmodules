@@ -1,0 +1,3 @@
+[submodule "yoxxa/themes/kiera"]
+	path = yoxxa/themes/kiera
+	url = https://github.com/funkydan2/hugo-kiera.git
