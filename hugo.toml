@@ -27,7 +27,7 @@ pygmentsCodeFences = true
     #devto = "username"
 
 [params]
-    tagline = "Computing. Philosophy. Maths."
+    tagline = "Polymathy awaits thee."
     description = "The digital garden of an internet user named yoxxa."
     #images = [""] #This is used for opengraph/twitter cards.
     customCSS = []  #Optional Customised CSS
@@ -38,7 +38,7 @@ pygmentsCodeFences = true
     #commentAutoload = true  #This mean reader don't need click, disqus comment autoload
     #mathjax = true #Enable display of mathematics using mathjax (LaTeX syntax)
     #katex = true #Enable display of mathematics using katex (Faster LaTeX rendering)
-    #google_fonts = ["Staatliches"] # Adds additional google fonts
+    google_fonts = ["Staatliches"] # Adds additional google fonts
     #disableDarkModeCSS = false # disables css style for users using dark-mode
 
 # uncomment to enable the Tags link on the main toolbar
