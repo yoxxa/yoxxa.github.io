@@ -2,12 +2,12 @@
 title = "About"
 #date = "2014-04-09"
 menu = "main"
-weight = "40"
+weight = "50"
 meta = "true"
 
 +++
 
-I'm a researcher and programmer focused on security and AI. I take passion in exploring complex systems, relationships and constructs. 
+I'm a researcher and engineer focused on security and AI. I take passion in exploring complex systems, relationships and constructs. 
 
 I value simplicity, using controlled complexity where necessary.
 
