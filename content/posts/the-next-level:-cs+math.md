@@ -37,7 +37,7 @@ Computers continue to fascinate me, I intend to take this excitement and pursue 
 - Electrical Engineering: Moore's law has proven to be declining. The laws of Physics dictate a limit to what can be done. Although with stagnation, opportunity makes itself known. Could we, as humans, break the so-called universal laws of truth?
 - Robotics: guns on robots, robots with guns, robots with food, robot medicine? The industry seems to be a slow distil upon which the growth remains, innovations remain, worry also remains.
 
-![THEY TOOK OUR JOBS](/they-took-our-jobs.gif)
+![THEY TOOK OUR JOBS](/they-took-our-jobs.jpg)
 
 To grasp, to learn, to understand. This is the goal in life. Projects, study, opinions and conversations will achieve this.
 

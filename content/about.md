@@ -7,8 +7,12 @@ meta = "true"
 
 +++
 
-I'm a researcher and engineer focused on security and AI. I take passion in exploring complex systems, relationships and constructs. 
+I'm an independent researcher, and engineer focused on security and AI. 
 
+Other interests of mine include health, finance, spirituality and philosophy.
+
+
+I take passion in exploring systems, relationships and constructs. 
 I value simplicity, using controlled complexity where necessary.
 
 ---
@@ -17,5 +21,5 @@ I value simplicity, using controlled complexity where necessary.
 
 To challenge human limitations and continue the growth of humanity. Likely through AI, but more broadly, *the singularity*. 
 
-To launch a research lab that develops, improves and adopts technologies across multiple fields: security; AI; crypto; et cetera. 
+To launch a research lab or product that changes the understanding of normality. 
 
