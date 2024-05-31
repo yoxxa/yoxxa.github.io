@@ -58,19 +58,21 @@ Such, I have decided to brush up on the essential building blocks of Mathematica
 
 Roadmaps surrounding self-study.
 
-### Computer Science / Compute
+### Computer Science & Compute
 
 Programming languages are fascinating beasts. The infinite choices prove an immense time waste in the *Scheme* of things.
 Languages all have their purpose, that thing it just excels in. 
 
 I figure having a language toolkit to fit paradigms, objectives and layers of the compute stack, paired with something web-based is OP. 
-- Python: Scripting, prototyping, OOish. (Fluent)
-- C: Performance, breadth of open and closed-source projects, procedural. (Some exposure)
-- Rust?: Hyped, memory safety, performant, functional. (Minimal experience)
-- Go?: Standard backend lang, carries lots of web services, GC but like C, procedural. (No exposure)
-- Typescript?: Javascript painful, Typescript hopefully less painful. Not super interested in FE but design is crucial to anything. (JS exposure)
+- Python: Scripting, prototyping, OOish. Thankfully fluent already.
+- C: Performance, OG with breadth of open and closed-source projects, procedural.
+- Rust?: Hyped, memory safe, performant, functional-esque.
+- Go?: Standard backend lang, carries lots of web/cloud services, like C but GC, procedural.
+- Typescript?: Javascript painful, Typescript hopefully less painful. Not super interested in FE but UI/UX design is crucial to anything.
 
-2 - 3 languages seems to be the sweet spot from this list. Right now, Python, C and Rust interest me most.
+Right now I figure Python, C and Rust to suit my ambitions most, although I remain open to all.
+
+But truthfully, and as all programmers know, a tool is just a tool. No more no less.
 
 ---
 
@@ -79,12 +81,12 @@ My CS roadmap is currently:
 - Learn low-level systems, architecture and OSes.
 - DSA - Big O, implementations, some LeetCode (don't want to waste too much time) - already have a high level understanding of common structures and algos.
 - AI timez.
-- Electronics?
+- EE, electronics, physics of a computer?
 
 ### Mathematics
 
 It would seem that Maths will benefit me regardless of whatever type of path took or product I launch.
 
-These two topics are the core of what I will be focusing my time towards attaining mastery of:
+These two applied topics are the core of what I will be focusing my time towards attaining mastery of:
 - Linear Algebra
 - Multivariate Calculus
