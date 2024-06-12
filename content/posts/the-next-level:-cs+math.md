@@ -7,7 +7,7 @@ title: "The Next Level: CS + Math"
 
 Consider this letter, my future self, when you inevitably falter on your path. You shall prove held insecurities were simply fallacy, tricked to believing.
 
-TL;DR CS and Math good, trends meh. 
+TL;DR CS and Math good, trends irrelevant. 
 
 ---
 
@@ -70,9 +70,9 @@ I figure having a language toolkit to fit paradigms, objectives and layers of th
 - Go?: Standard backend lang, carries lots of web/cloud services, like C but GC, procedural.
 - Typescript?: Javascript painful, Typescript hopefully less painful. Not super interested in FE but UI/UX design is crucial to anything.
 
-Right now I figure Python, C and Rust to suit my ambitions most, although I remain open to all.
+Right now I figure a scripting, systems and general-purpose language suit my ambitions most, although I remain open to all.
 
-But truthfully, and as all programmers know, a tool is just a tool. No more no less.
+But truthfully, and as all programmers know, a language is simply a tool. No more no less.
 
 ---
 
