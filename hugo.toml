@@ -2,7 +2,7 @@ baseurl = "https://yoxxa.github.io/"
 title = "yoxxa"
 copyright = "Copyright &copy; 2024 - yoxxa"
 canonifyurls = true
-theme = "kiera"
+theme = "hugo-kiera"
 
 paginate = 3
 
