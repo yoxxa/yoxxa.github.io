@@ -1,0 +1,193 @@
+<!doctype html>
+
+<html lang="en">
+
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+  <title>Portfolio - yoxxa</title>
+  <meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta name="description" content="The digital garden of an internet user named yoxxa." />
+<meta name="author" content="yoxxa" /><meta property="og:url" content="http://localhost:1313/portfolio/">
+  <meta property="og:site_name" content="yoxxa">
+  <meta property="og:title" content="Portfolio">
+  <meta property="og:description" content="The collection of my professional projects.
+Cisco Systems: 2024 - ongoing Solely designed, prototyped and developed software using a third party serial Bluetooth dongle to collect BLE MAC addresses for an IoT application.">
+  <meta property="og:locale" content="en">
+  <meta property="og:type" content="article">
+
+
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="Portfolio">
+  <meta name="twitter:description" content="The collection of my professional projects.
+Cisco Systems: 2024 - ongoing Solely designed, prototyped and developed software using a third party serial Bluetooth dongle to collect BLE MAC addresses for an IoT application.">
+
+<meta name="generator" content="Hugo 0.133.0">
+    
+
+  <link rel="stylesheet" href="http://localhost:1313/css/normalize.min.css" />
+  <link rel="stylesheet" href="http://localhost:1313/fontawesome/css/all.min.css" />
+  
+    
+    <link href="//fonts.googleapis.com/css?family=Staatliches" rel="stylesheet">
+  
+  
+  <link rel="stylesheet" type="text/css" href="http://localhost:1313/css/styles.css" />
+</head>
+
+<body>
+  <div id="container">
+    <header>
+      
+      <h1>
+        <a href="http://localhost:1313/">yoxxa</a>
+      </h1>
+
+      <ul id="social-media">
+             <li>
+               <a href="mailto:theyoxxa@protonmail.com" title="Email me">
+               <i class="fas fa-envelope fa-lg"></i>
+               </a>
+             </li>
+             <li>
+               <a href="https://github.com/yoxxa" title="GitHub">
+               <i class="fab fa-github fa-lg"></i>
+               </a>
+             </li>
+      </ul>
+      
+      <p><em>Polymathy awaits thee.</em></p>
+      
+    </header>
+
+    
+<nav>
+    <ul>
+        
+        <li>
+            <a class="" href="http://localhost:1313/posts/">
+                <i class="fa-li fa  fa-lg"></i><span>Articles</span>
+            </a>
+        </li>
+        
+        <li>
+            <a class="" href="http://localhost:1313/journey/">
+                <i class="fa-li fa  fa-lg"></i><span>Journey</span>
+            </a>
+        </li>
+        
+        <li>
+            <a class="" href="http://localhost:1313/links/">
+                <i class="fa-li fa  fa-lg"></i><span>Links</span>
+            </a>
+        </li>
+        
+        <li>
+            <a class="active" href="http://localhost:1313/portfolio/">
+                <i class="fa-li fa  fa-lg"></i><span>Portfolio</span>
+            </a>
+        </li>
+        
+        <li>
+            <a class="" href="http://localhost:1313/about/">
+                <i class="fa-li fa  fa-lg"></i><span>About</span>
+            </a>
+        </li>
+        
+    </ul>
+</nav>
+
+
+    <main>
+
+
+
+
+<article>
+
+    <h1>Portfolio</h1>
+
+    
+
+    
+      
+
+    
+
+    <p>The collection of my professional projects.</p>
+<hr>
+<h2 id="cisco-systems-2024---ongoing">Cisco Systems: 2024 - ongoing</h2>
+<ul>
+<li>
+<p>Solely designed, prototyped and developed software using a third party serial Bluetooth dongle to collect BLE MAC addresses for an IoT application.</p>
+<ul>
+<li>Third party dongle received AT commands over DB9 cabling, spews back binary data ended by b&quot;\r\nOK\r\n&quot;.</li>
+<li>Used an Inquiry Bluetooth scan to query for nearby devices within a ~30m radius.</li>
+<li>Normalised, transmitted the data via a proprietary 22-byte network protocol.</li>
+<li>Used the container orchestration system (IOx) of IR1101 router to host dockerised service.</li>
+<li>Circa 2 months project part-time. $2M sales outcome.</li>
+</ul>
+</li>
+<li>
+<p>Automated firewall (FXOS) builds via API using YAML configuration templates. Setting up interfaces, port-channels, AAA, NTP, syslog, backups, logical device(s).</p>
+<ul>
+<li>Three layered solution - Parser, FXOS, Model(s).</li>
+<li>Uses YAML to define template configurations, read by Parser object.</li>
+<li>FXOS object offers connection to device and main logic of the application.</li>
+<li>Model objects contain logic for configuring the equivalent API model(s).</li>
+<li>~1 month project part-time. Lack of interest from business :(</li>
+</ul>
+</li>
+<li>
+<p>Automatic population of Zscaler PoP IP addresses as FMC Dynamic Objects using Ansible.</p>
+<ul>
+<li>Wrote playbook to initialise FMC environment with two Dynamic Objects - zscaler_hubs, zscaler_cenr</li>
+<li>Wrote playbook to handle GET requests to Zscaler API endpoints for Hubs and CENR addresses, parse and normalise JSON.</li>
+<li>In same playbook, made relevant calls to FMC Ansible Galaxy module to populate Dynamic Object with JSON data, push objects to ACP rule.</li>
+<li>Found bugs in the Galaxy module that prevented expected ease, had to find work arounds&hellip;</li>
+<li>~1 month project part-time. Lots of waiting on the client.</li>
+</ul>
+</li>
+<li>
+<p>Zscaler Internet Access Jinja2 document for policy visibility.</p>
+<ul>
+<li>Wrote Jinja2 Word/docx template using docxtpl library.</li>
+<li>Wrote class to handle and normalise data that is wanted from ZIA API.</li>
+<li>Pass data from class to template. Eazy peazy.</li>
+<li>~1 week project part-time, if that. Lots of waiting for the API key from client.</li>
+</ul>
+</li>
+</ul>
+
+
+</article>
+
+
+
+
+
+
+</main>
+    <footer>
+        <ul>
+            <li>
+                <h6>Copyright © 2024 - yoxxa | 
+                    Rendered by <a href="https://gohugo.io" title="Hugo">Hugo</a> |
+                    <a href="http://localhost:1313/index.xml">Subscribe </a></h6>
+            </li>
+            
+            
+        </ul>
+    </footer>
+</div>
+<script src="http://localhost:1313/js/scripts.js"></script>
+
+  
+  
+
+
+
+
+</body>
+
+</html>
+
